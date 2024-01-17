@@ -4,10 +4,11 @@ Her publiseres offentlige prosjekter etablert av Helse Nord IKT.
 ## For ansatte
 Om du er ansatt i HNIKT og ser denne siden, betyr det at GitHub-brukeren din ikke er autentisert mot vår organisasjon.
 
-*Jeg er medlem*
+_Jeg er medlem_
+
 Da skal du bare [autentisere deg]([url](https://github.com/orgs/HNIKT/sso)).
 
-*Jeg vil bli medlem*
+_Jeg vil bli medlem_
 Mer informasjon finner du på [Confluence](https://docs.helsenord.no/x/zr1RI).
 
 
