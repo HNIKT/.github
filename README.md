@@ -1,8 +1,6 @@
-# Helse Nord IKT public GitHub
-Her publiseres offentlige prosjekter etablert av Helse Nord IKT.
+# Meta-repo for HNIKT sin public GitHub
 
-## For ansatte
-Om du er ansatt i HNIKT og ser denne siden, betyr det at GitHub-brukeren din ikke er autentisert mot vår organisasjon.
+**I dette repoet skal vi ikke publisere noe!**
 
 Mer informasjon finner du på [Confluence](https://docs.helsenord.no/x/zr1RI).
 
