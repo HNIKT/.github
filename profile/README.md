@@ -33,3 +33,6 @@ Om du allerede har fått tilgang til HNIKT sin GitHub-organisasjon skal du bare 
 Da finner du mer informasjon på [Confluence](https://docs.helsenord.no/x/zr1RI).
 
 
+
+![Helse Nord IKT sine verdier er Kvalitet, Trygghet og Respekt.](Verdier_pos.png)
+
