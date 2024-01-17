@@ -34,5 +34,6 @@ Da finner du mer informasjon på [Confluence](https://docs.helsenord.no/x/zr1RI)
 
 <br />
 <br />
-
+<p>
 ![Helse Nord IKT sine verdier er Kvalitet, Trygghet og Respekt.](profile/Verdier_pos.png)
+</p>
