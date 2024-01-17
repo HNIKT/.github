@@ -1,8 +1,11 @@
 # Helse Nord IKT public GitHub
-Her publiseres offentlige prosjekter etablert av Helse Nord IKT.
+Du ser nå på den "offentlige" siden av Helse Nord IKT sin GitHub-organisasjon.
 
 ## For ansatte
-Om du er ansatt i HNIKT og ser denne siden, betyr det at GitHub-brukeren din ikke er autentisert mot vår organisasjon.
+Om du er ansatt i HNIKT og ser denne siden kan de skyldes ett av følgende:
+
+* GitHub-brukeren din ikke er autentisert mot vår organisasjon.
+* Du ser siden som "public" og ikke som "member". Det kan du justere i menyen til høyre.
 
 ### Jeg er allerede medlem
 Om du allerede har fått tilgang til HNIKT sin GitHub-organisasjon skal du bare [autentisere deg](https://github.com/orgs/HNIKT/sso).
