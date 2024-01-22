@@ -21,7 +21,7 @@ Veiledning for Markdown
 Du ser nå på den "offentlige" siden av Helse Nord IKT sin GitHub-organisasjon.
 
 ## For ansatte
-Om du er ansatt i HNIKT og ser denne siden kan de skyldes ett av følgende:
+Om du er ansatt i HNIKT og ser denne siden kan det skyldes ett av følgende:
 
 * GitHub-brukeren din ikke er autentisert mot vår organisasjon.
 * Du ser siden som "public" og ikke som "member". Det kan du justere i menyen til høyre.
