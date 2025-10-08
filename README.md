@@ -1,7 +1,8 @@
 # Meta-repo for HNIKT sin _public_ GitHub
 
 > [!IMPORTANT]
-> I dette repoet skal vi ikke publisere noe!
+> I dette repoet skal vi KUN offentlig tilgjengelig informasjon.
+
 
 MOTD vedlikeholdes under profile/README.md.
 
