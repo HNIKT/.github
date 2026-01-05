@@ -30,7 +30,7 @@ Om du er ansatt i HNIKT og ser denne siden kan det skyldes ett av følgende:
 Om du allerede har fått tilgang til HNIKT sin GitHub-organisasjon skal du bare [autentisere deg](https://github.com/orgs/HNIKT/sso).
 
 ### 🙋‍♀️ Jeg vil bli medlem
-Da finner du mer informasjon på [Confluence](https://docs.helsenord.no/x/zr1RI).
+Da finner du mer informasjon på Confluence.
 
 
 <p align="center">
