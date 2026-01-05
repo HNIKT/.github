@@ -1,10 +1,10 @@
 # Meta-repo for HNIKT sin _public_ GitHub
 
 > [!IMPORTANT]
-> I dette repoet skal vi KUN offentlig tilgjengelig informasjon.
+> I dette repoet skal vi KUN legge offentlig tilgjengelig informasjon.
 
 
-MOTD vedlikeholdes under profile/README.md.
+MOTD vedlikeholdes under [profile/README.md](https://github.com/HNIKT/.github/blob/24a61e468cad8fcc8049ef4214cb9b6f4d4b2093/profile/README.md).
 
-Mer informasjon finner du på [Confluence](https://docs.helsenord.no/x/zr1RI).
+HNIKT-intern informasjon og GitHub finner du i Confluence.
 
